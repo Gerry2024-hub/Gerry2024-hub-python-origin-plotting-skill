@@ -1,4 +1,0 @@
-interface:
-  display_name: "Python Origin Plotting"
-  short_description: "Automate publication OriginPro plots with Python."
-  default_prompt: "Use $python-origin-plotting to generate OriginPro figures from my Excel or CSV data."
